@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido como uma forma de praticar os fundamentos da linguagem Java por meio da criação de um sistema bancário simples.
 
-O nome do projeto é uma homenagem a **Ada Lovelace**, considerada uma das pioneiras da programação. Sua trajetória representa a importância da curiosidade, da criatividade e da inovação na tecnologia — valores que também fazem parte da minha jornada na área de TI.
+O nome do projeto é uma homenagem a **Ada Lovelace**, considerada uma das pioneiras da programação. Sua trajetória representa a importância da curiosidade, da criatividade e da inovação na tecnologia, valores que também fazem parte da minha jornada na área de TI.
 
 ## 📌 Sobre o projeto
 
