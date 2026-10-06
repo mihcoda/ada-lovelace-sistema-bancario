@@ -17,8 +17,8 @@ public class Desafio {
         String menu = """
                  Digite sua opção 
                 1- Consultar saldos
-                2- Receber valor
-                3- Transferir valor
+                2- Transferir valor
+                3- Valor a ser recebido
                 4- Sair
                 Digite a opção desejada
                 """;
@@ -49,4 +49,4 @@ public class Desafio {
             }
         }
     }
-};
+}
