@@ -36,8 +36,6 @@ A aplicação também possui um menu de opções para interação com o usuário
 
 ## 👩‍💻 Autora
 
-**Ayumi Takeyama (Mih)**
+**Ayumi Takeyama (mihcoda)**
 
-Estudante de Segurança da Informação e em formação em Desenvolvimento Backend Java.
-
-[LinkedIn](https://www.linkedin.com/in/oiayumitk/) • [GitHub](https://github.com/mihjpg)
+[LinkedIn](https://www.linkedin.com/in/oiayumitk/) • [GitHub](https://github.com/mihcoda)
